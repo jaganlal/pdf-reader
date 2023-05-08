@@ -1,0 +1,6 @@
+pandas
+
+pypdf
+pdfplumber
+pymupdf
+Unidecode
